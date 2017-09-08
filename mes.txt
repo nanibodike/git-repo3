@@ -1,1 +1,2 @@
-i am creating first repository
+i am creating first repositor
+adding second commit with mes.txt
